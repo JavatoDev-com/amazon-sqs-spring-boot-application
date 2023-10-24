@@ -1,7 +1,7 @@
 # How to Use Amazon SQS With Spring Boot
 
 <a href="https://www.javatodev.com/how-to-use-amazon-sqs-with-spring-boot/" target="blank">
-    <img align="center" src="https://www.javatodev.com/content/images/size/w2000/2022/11/javatodev.com-banner--1-.png" alt="Spring Boot REST API Using Spring Data MongoDB Tutorial"/></a>
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2022/11/javatodev.com-banner-1--1536x864.png" alt="Spring Boot REST API Using Spring Data MongoDB Tutorial"/></a>
 
 <p align="left">
     Amazon SQS (Simple Queue Service) allows us to configure software components to send, receive and store messages. Here in this tutorial we will look into a spring boot solution which configured with Amazon SQS with practical scenarios.
